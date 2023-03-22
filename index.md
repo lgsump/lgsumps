@@ -5,7 +5,7 @@ title: About
 <h2>Interests</h2>
 <hr>
 <h4>I am an undergraduate student at the University of Texas at Austin double-majoring in Philosophy and History. I am interested in aesthetics and philosophy of art, especially film and literature. Most of my interests also dive into the concepts of time and memory in intersection with aesthetic, film, and literary theory. Recently, I've been doing a lot of stuff on narrative theory and working with Marcel Proust and Gilles Deleuze. I am also interested in the philosophy of history in respect to causality and Marxism. </h4>
-<br>
+<p style="text-align:left;"><img width="300" alt="Screen Shot 2023-03-22 at 3 51 04 PM" src="https://user-images.githubusercontent.com/122332459/227035049-19fcc3eb-12e1-46f3-ad4e-6cfa33f20d3b.png"></p>
 <br>
   <h2>Resume</h2>
   <hr>
