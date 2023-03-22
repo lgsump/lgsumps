@@ -2,16 +2,16 @@
 layout: page
 title: About
 ---
-<h2><center>About</center>
+<h2>Interests</h2>
 <hr>
 <h4>I am an undergraduate student at the University of Texas at Austin double-majoring in Philosophy and History. I am interested in aesthetics and philosophy of art, especially film and literature. Most of my interests also dive into the concepts of time and memory in intersection with aesthetic, film, and literary theory.</h4>
 <br>
 <br>
-  <h2><center>Resume</center>
+  <h2>Resume</h2>
   <hr>
   <h3><center>EDUCATION</center>
 
-<h4>University of Texas at Austin 			                     	        		     	 	        <right> Expected May 2024</right>
+<h4>University of Texas at Austin 			                     	        		     	 	        <p style="text-align:right"> Expected May 2024</p>
 <br>
   <br>
 <ul>B.A., Philosophy and History		
