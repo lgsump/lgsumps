@@ -9,10 +9,8 @@ title: Luke G. Sumpter
 <br>
   <h2><center>Resume</center>
   <hr>
-  
-
   <h3><center>EDUCATION</center>
-    <br>
+
 <h4>University of Texas at Austin 			                     	        		     	 	        <right> Expected May 2024</right>
 <br>
   <br>
@@ -28,9 +26,8 @@ Summer Study Abroad Program at the University of Bristol, United Kingdom (2022):
   <br>
 <br>
   <h3><center>EXPERIENCE </center>
-    <br>
-    <br>
-    <b>Initiative for Digital Humanities, Austin, Texas</b>				        <right>  Jan. 2023 – Present </right>
+
+    <h4><b>Initiative for Digital Humanities, Austin, Texas</b>				        <right>  Jan. 2023 – Present </right>
   <br>
   <h4><i>Intern and Undergraduate Researcher</i>
     <br>
@@ -70,7 +67,7 @@ Summer Study Abroad Program at the University of Bristol, United Kingdom (2022):
     <br>
 <br>
     <h3><center>STUDENT ORGANIZATIONS</center>
-      <br>
+
       <h4><b>TX Votes		</b> 									         <right>Aug. 2020 – Present</right>
       <br>
       <i>Secretary (2020-2022), Events Committee Chair (2022-2023)	 	</i>
@@ -92,7 +89,7 @@ Summer Study Abroad Program at the University of Bristol, United Kingdom (2022):
       <br>
       <br>
       <h3><center>SKILLS & INTERESTS </center>
-        <br>
+
 <h4><ul>- Skills: Basic HTML, Intermediate proficiency in Audacity: an audio and recording software, Volunteer Deputy Registrar in Travis County
   <br>
 - Interests: Sci-fi films, circles, Adele, Sir Edward Elgar, aesthetics, causality, circles, Tennessee Williams, Marcel Proust, Memory, Gilles Deleuze, philosophy of film, and philosophy of literature.
@@ -102,6 +99,7 @@ Summer Study Abroad Program at the University of Bristol, United Kingdom (2022):
         <br>
   <br>
         <h3><center>PROJECTS</center>
+   
 <h4><ul>- A Digital Florilegium (AudiAnnotate, 2023): A collection of digital art and a philosophical argumentative digital essay using AudiAnnotate on the use of time and transformation in digital authenticity, and a rejection of traditional criticisms of digital art. 15,000 words of annotations and essays. 
   <br>
 - Contradiction and Overdetermination (Essay, 2022): The Discussion of Their Diversity of Thought and Importance in the 20th Century; 3,000 word writing sample. 
