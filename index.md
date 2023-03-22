@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Luke G. Sumpter
+title: About
 ---
 <h2><center>About</center>
 <hr>
